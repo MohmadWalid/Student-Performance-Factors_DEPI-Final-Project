@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Factors — DEPI Final Project
 
 A group data analysis project exploring the factors that influence student exam performance — including study habits, attendance, parental involvement, family income, and gender.
 
