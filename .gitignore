@@ -1,0 +1,10 @@
+# R artifacts
+.Rhistory
+Rhistory
+.RData
+.Rproj.user/
+*.html
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
